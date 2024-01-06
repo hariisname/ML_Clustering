@@ -1,2 +1,1 @@
-# ML_Clustering
-Customer Personality Analysis
+# Customer Personality Analysis

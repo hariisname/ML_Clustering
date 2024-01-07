@@ -10,7 +10,7 @@ So the companies or firms can target these type of customers so that their produ
 Based on various Features :- 
 	Attributes
 	----------
-		People :-
+		People :- 
 		---------
 			ID: Customer's unique identifier
 			Year_Birth: Customer's birth year
